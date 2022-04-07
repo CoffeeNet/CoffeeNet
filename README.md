@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Coffee
-- 👀 Founder Of CoffeeMC, HivalCoffee 1.18 Survival, CoffeeHosting, CoffeeDev.
-- 🌱 I’m Currently Learning Java & PHP & NGINX
-- 📫 Discord : CoFfEe#0001
+Founder Of CoffeeMC, HivalCoffee 1.18 Survival, CoffeeHosting, CoffeeDev.
+I’m Currently Learning Java & PHP & NGINX
+Discord : CoFfEe#0001
 
 <!---
 CoffeeNet/CoffeeNet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
